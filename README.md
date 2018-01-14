@@ -54,8 +54,8 @@ Unzip the archive wherever you wish. Then, `cd` to the
 [Envelope IDML](Envelope%20IDML) folder and enter in PowerShell
 
 ```powershell
-Start-Process "$env:ProgramFiles\zip300xn-x64\zip" -ArgumentList '-X0', '..\Envelope.idml', 'mimetype' -Wait
-Start-Process "$env:ProgramFiles\zip300xn-x64\zip" -ArgumentList '--recurse-paths', '--no-dir-entries', '-X9', '..\Envelope.idml', '*', '--exclude', 'mimetype' -Wait
+& "$env:ProgramFiles\zip300xn-x64\zip" -X0 ..\Envelope.idml mimetype
+& "$env:ProgramFiles\zip300xn-x64\zip" --recurse-paths --no-dir-entries -X9 ..\Envelope.idml * --exclude mimetype
 ```
 
 or in Command Prompt
