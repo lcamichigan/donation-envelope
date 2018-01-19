@@ -23,10 +23,10 @@ To create the envelope, you need:
 
 * These fonts:
 
-  | Font                                                                     | Download URL                                                             |
-  |--------------------------------------------------------------------------|--------------------------------------------------------------------------|
-  | [Damion](https://fonts.google.com/specimen/Damion)                       | https://github.com/google/fonts/raw/master/ofl/damion/Damion-Regular.ttf |
-  | [Gillius](http://arkandis.tuxfamily.org/adffonts.html)                   | http://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip      |
+  | Font                                                   | Download URL                                                             |
+  |--------------------------------------------------------|--------------------------------------------------------------------------|
+  | [Damion](https://fonts.google.com/specimen/Damion)     | https://github.com/google/fonts/raw/master/ofl/damion/Damion-Regular.ttf |
+  | [Gillius](http://arkandis.tuxfamily.org/adffonts.html) | http://arkandis.tuxfamily.org/fonts/Gillius-Collection-20110312.zip      |
 
 ## Creating an InDesign File
 
